@@ -24,6 +24,10 @@ A multilingual website I independently developed and launched for an Italian han
 
 The production source code is private. The showcase repository documents the project and links to the live site.
 
+## 💻 Selected technical project
+
+- **[NoteHub — Authentication & Notes](https://github.com/VadymBuleziuk/09-auth)** — GoIT training application using Next.js, TypeScript, protected routes, authentication flows, Zustand and TanStack Query.
+
 ## 🛠️ Technologies
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js
