@@ -4,6 +4,8 @@
 
 I'm a web developer based in **Piacenza, Italy**. I build responsive websites and practical web solutions for small businesses, artisans, and professionals.
 
+🌐 **Portfolio:** [vadymbuleziuk.vercel.app](https://vadymbuleziuk.vercel.app)
+
 I completed the **Fullstack Developer course at GoIT (872 hours)** in October 2026. My focus is turning real business needs into clear, maintainable websites — from frontend interfaces to backend functionality.
 
 ## 🌸 Featured project: Fiori di Zefiro
@@ -23,6 +25,12 @@ A multilingual website I independently developed and launched for an Italian han
 📁 [View the public project showcase](https://github.com/VadymBuleziuk/fiori-di-zefiro-showcase)
 
 The production source code is private. The showcase repository documents the project and links to the live site.
+
+## 🖥️ Personal portfolio
+
+My personal developer portfolio, built with **Next.js, React, TypeScript, CSS Modules, and GSAP**. It features responsive layouts, scroll animations, and interactive draggable windows showcasing my projects.
+
+🌐 [Explore my portfolio](https://vadymbuleziuk.vercel.app)
 
 ## 💻 Selected technical project
 
